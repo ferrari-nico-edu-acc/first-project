@@ -1,3 +1,3 @@
 # first-project
 
-*blah blah blah*>
+*blah blah blah*
